@@ -28,6 +28,22 @@
     z-index: 99;
 }
 
+.text-checklist{
+    color:#00923F;
+}
+
+.text-border{
+    border-left: 1px solid #00923F;
+}
+
+.button-ristek{
+    color: #00923F;
+    border-color: #00923F;
+}
+.button-ristek:hover{
+    background-color: #00923F;
+    color: #fff;
+}
 
 /*** Spinner ***/
 #spinner {
